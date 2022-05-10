@@ -42,7 +42,7 @@ MicroOS now has a few different package managers as an option during install:
 
 The reason for changing package managers is because pkcon gives the opportunity to use Gnome Software or Discover for KDE as an installer of RPM's. And currently we are working on the ability to let Gnome Software and Discover perform system upgrades.
 
-#### Transcational-update _default_
+#### Transactional-update _default_
 commands for transactional-update are:
 
   * `sudo transactional-update pkg install package_name` install a rpm package
